@@ -1,4 +1,4 @@
-# smd-bentchmark
+# smd-benchmark
 
 Curated single molecule data sets from published studies are provided here for benchmarking algorithms and analysis tools used for single molecule research.  Before new data is added to this repository care has been taken to ensure that files provided comply with the [SMD format](https://smdata.github.io/). Once data has been added to this repository it should not be altered. However, please consult the data verification protocols listed below. When new datasets are added the repository will be taged and a new release issued.
 
